@@ -1,4 +1,4 @@
-# Astro Starter Kit: Blog
+# Astro Starter Kit: Blog change here is made and here as well 
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
 
@@ -8,7 +8,8 @@
 
 Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
 
-Features:
+Features: back to READ ME NOW and removed changed in other file
+okay now another one
 
 - ✅ Minimal styling (make it your own!)
 - ✅ 100/100 Lighthouse performance
